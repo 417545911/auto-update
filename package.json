@@ -4,13 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "husky install"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "liujiyou",
-  "license": "MIT",
-  "devDependencies": {
-    "husky": "^9.0.11"
-  }
+  "author": "",
+  "license": "MIT"
 }
